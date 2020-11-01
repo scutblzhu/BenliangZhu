@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+# interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 
-education:
+# education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
